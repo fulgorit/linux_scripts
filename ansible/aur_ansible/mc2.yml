@@ -1,0 +1,9 @@
+# fonctionne si le module est installé et si ansible.cfg est configuré 
+# /etc/ansible/ansible.cfg doit être utilisé
+# https://github.com/cdown/ansible-yaourt
+
+- hosts: web
+  tasks:
+     - yaourt: name=mc state=absent
+
+

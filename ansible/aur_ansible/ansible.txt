@@ -1,0 +1,1 @@
+ansible all -m ping -s -k -u masterli --ask-become-pass

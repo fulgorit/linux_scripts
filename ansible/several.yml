@@ -1,0 +1,16 @@
+# fonctionne si le module est installé et si ansible.cfg est configuré 
+# /etc/ansible/ansible.cfg doit être utilisé
+# https://github.com/cdown/ansible-yaourt
+
+# run as root
+
+- hosts: web
+  tasks:
+     - yaourt: name={{item}} state=present
+       with_items:
+#       - mc
+#       - numlockx
+#       - fluxbox
+       - fcitx
+       - fcitx-sunpinyin
+       - fcitx-im

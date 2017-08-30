@@ -1,0 +1,6 @@
+---
+- hosts: web
+  tasks:
+  - pacman: 
+     name: mc 
+     state: present

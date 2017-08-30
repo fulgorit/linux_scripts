@@ -1,0 +1,16 @@
+# fonctionne si le module est installé et si ansible.cfg est configuré 
+# /etc/ansible/ansible.cfg doit être utilisé
+# https://github.com/cdown/ansible-yaourt
+
+# run as root ansible-playbook mc.yml -vvv
+
+# /etc/sshd.conf 
+# PermitRootLogin yes
+
+- hosts: web
+  tasks:
+     - yaourt: name=mc state=absent
+
+# present to install 
+# or absent to remove
+

@@ -1,0 +1,180 @@
+[en]:ret=commands.getoutput(echo +text[1]+
+[en]:SyntaxError: EOL while scanning string literal
+[en]:SyntaxError: EOL while scanning string literal
+[en]:SyntaxError: EOL while scanning string literal
+[af]:debian-desktop
+[en]:import sys
+reload(sys)
+sys.setdefaultencoding(utf-8)
+[en]:import sys
+reload(sys)
+sys.setdefaultencoding(utf-8)
+[en]:UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 0: ordinal not in range(128)
+[en]:NameError: name 's' is not defined
+[fr]:agent du FBI infiltre un groupe
+[en]:synthesis
+[es]: unicode(
+[fr]:Un agent du FBI infiltre un groupe de suprématistes pour empêcher un attentat.
+[en]:pico2wave -l=fr-FR -w /home/masterli/synthesis/text.wav
+[en]:Write output to this WAV file
+[en]:Write output to this WAV file
+[en]:Write output to this WAV file
+[fr]:Ceci est un test de pico
+[fr]:Ceci est un test de pico
+[en]: Show this help message
+[hu]:resize
+[fr]:Fréquence
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[fr]:Cliquez sur OK et bonne lecture !
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[fr]:Sur l'interface de configuration, choisissez Application externe.
+[en]:txt = txt.replace(', '')
+[en]:txt = txt.replace(', '')
+[en]:txt = txt.replace(', '')
+[et]:, , line)
+[et]:, , line)
+[en]:AttributeError: 'tuple' object has no attribute 'replace'
+[en]:AttributeError: 'tuple' object has no attribute 'replace'
+[it]:File readPico.py, line 11, in <module>
+[it]:File readPico.py, line 11, in <module>
+[ro]:txt = text[1].replace(\''\', '')
+[ro]:txt = text[1].replace(\''\', '')
+[ro]:txt = text[1].replace(\''\', '')
+[en]:txt = text[1].replace(\''\', '')
+[en]:Traceback (most recent call last):
+[sw]:W
+[en]:Tracebackmostrecentcalllast
+[ca]:txtresubrtext1
+[ca]:txtresubrtext1
+[ca]:txtresubrtext1
+[fr]:raiseerrorvinvalidexpression
+[en]:sre_constantserrorunbalancedparenthesis
+[en]:SurlinterfacedeconfigurationchoisissezApplicationexterne
+[it]:SurlinterfacedeconfigurationchoisissezApplicationexterne
+[ca]:txt2  resubs   text1
+[ca]:txt2  resubs   text1
+[fr]:Sur linterface de configuration choisissez Application externe
+[fr]:Sur l interface de configuration  choisissez Application externe 
+[en]:sys setdefaultencoding utf 8 
+[no]:sys setdefaultencoding utf 8 
+[en]:Write output to this WAV file
+[en]:Show this help message
+[fr]:Cliquez sur OK et bonne lecture  
+[en]:Show this help message
+[en]:synthesis
+[es]:unicode 
+[en]:EOL while scanning string literal
+[fr]:agent du FBI infiltre un groupe
+[fr]: PicoTTS a   t   cr     par SVOX et a   t   choisi par Google comme moteur de synth  se vocale  Text To Speech  pour Android 1 6 en 2009  Ce syst  me a la particularit   d   tre le plus fluide des solution disponibles sous linux et d   tre multilingue  Voci les langues support  es 
+[it]:Installation
+[fr]:Debian et les sources de svox
+[fr]:En mode graphique Pico peut s int  grer    libreoffice  la suite bureautique la plus couremment int  gr  e dans les distributions linux  C est particuli  rement pratique si vous voulez faire lire    l ordinateur un long texte copi   depuis une page web  Si libreoffice n est pas install    vous pouvez l installer vous m  me  apt get install libreoffice Pour int  grer pico  il nous faut installer une extention de libreoffice  Read Text Une fois le fichier t  l  charg    ouvrez le avec libreoffice pour installer l extention 
+[fr]:Une fois le fichier t  l  charg  
+[fr]:Une fois le fichier t l charg  
+[fr]:Une fois le fichier t l charg  
+[fr]:Une fois le fichier téléchargé,
+[fr]:Synthèse vocale fluide sous linux avec pico
+[fr]:Par Thomas GONET Publié le 17/12/2015 à 19:24:26 Noter cet article: (1 votes) 
+[fr]:Par Thomas GONET Publié le 17/12/2015 à 19:24:26 Noter cet article: (1 votes) 
+[en]:var=
+[en]:var=
+[en]:/home/masterli/text.txt 
+[da]:elp message
+[fr]:notifications.txt
+octave
+[fr]:notifications.txt
+octave
+[sv]:octave
+[sv]:octave
+[fr]:notifications.txt
+octave
+[fr]:notifications.txt
+octave
+[fr]:Une fois le fichier téléchargé,
+[fr]:notifications.txt
+octave
+[fr]:notifications octave
+[fr]:Les brochures de
+SUPINFO International University
+
+Découvrez sur les brochures de formation initiale et de formation professionelle de SUPINFO International University, les opportunités offertes par les métiers de l'informatique et du numérique.
+Vous constaterez que toutes les spécialités du numérique étant intégrées au cursus SUPINFO, un parcours diplômant au sein de notre école représente la garantie d'une parfaite adaptabilité en entreprise, en toute simplicité.
+Le passage de certaines certifications préparées tout au long des études est compris dans les frais de scolarité pour les plus méritants conformément à notre réglement des études.
+Le choix de la mobilité internationale accessible financièrement partout dans le monde, ou encore le choix de l'enseignement à distance est faisable chaque année. 
+[fr]:Les brochures de
+SUPINFO International University
+
+Découvrez sur les brochures de formation initiale et de formation professionelle de SUPINFO International University, les opportunités offertes par les métiers de l informatique et du numérique.
+Vous constaterez que toutes les spécialités du numérique étant intégrées au cursus SUPINFO, un parcours diplômant au sein de notre école représente la garantie d une parfaite adaptabilité en entreprise, en toute simplicité.
+Le passage de certaines certifications préparées tout au long des études est compris dans les frais de scolarité pour les plus méritants conformément à notre réglement des études.
+Le choix de la mobilité internationale accessible financièrement partout dans le monde, ou encore le choix de l enseignement à distance est faisable chaque année. 
+[fr]:Avenue Louise, 534 - 1050 Brussels
+[fr]:Ecole d Informatique - IT School
+[en]:SUPINFO International University
+[fr]:La Grande Ecole de l informatique, du numérique et du management
+[fr]:Fondée en 1965, reconnue par l État. Titre Bac+5 certifié au niveau I.
+[fr]:je te remercie encore pour les chaussures
+[fr]:Il avait du bon sens ; le reste vient ensuite.
+	-+ Jean de La Fontaine (1621-1695), 
+	   Le Berger et le Roi (Fables X.9) -+-
+[fr]:
+
+
+LIONEL VAN WINNENDAELE
+Technicien informatique
+
+
+PROFILE
+
+
+COMPETENCES PERSONNELLES
+
+TRAVAIL EN EQUIPE	
+CREATIVITE	
+ORGANISATION	
+COMMUNICATION	
+INDEPENDANT	
+
+ME SUIVRE
+
+Facebook
+https://www.facebook.com/lionel.vw
+Linked In
+https://www.linkedin.com/in/lionel-van-winnendaele-05111a9
+
+
+
+TEL: 0494/481320   EMAIL: l.vanwinnendaele@gmail.com   ADRESSE: rue des Arbalestriers 14/1 7000 Mons    
+
+EDUCATION
+
+2000-2003 Graduat en informatique système à l HELHO
+2008-2016 Formations à Technocité
+EXPERIENCE
+
+COMPETENCES PROFESSIONNELLES
+
+Programmation C (2001)	
+Programmation C++ avec le framework Qt (2014)	
+Programmation PHP avec le framework Laravel5 (2016)	
+Programmation HTML/CSS/jQuery (2014-2016)	
+Programmation C# (2014)	
+Programmation Java (2014)	
+Administration Windows 2008	
+Administration Debian (2008-2016)	
+Administration CentOS	
+[fr]:18:11 faut faire kill -9 casimir pour tuer lilo enfants !!!
+[fr]:NH: Dites donc, ca fait 27 fois que je vois une question dont j ai donné
+    la réponse jeudi dernier. Je m énerve, je m énerve !
+HC: Tu sais pourtant que personne ne lit les posts des autres.
+    -+- in: Guide du Cabaliste Usenet - Bien utiliser les news -+-
+[de]:Steven Spielberg
+[fr]:Six mois après l invasion de la Terre par des extraterrestres, la planète est en ruine et les survivants humains tentent de faire face. Les résistants s organisent pour combattre les forces ennemies. Tom Mason, un ancien professeur d histoire, se retrouve propulsé en tant que commandant en second du 2ème Régiment du Massachusetts. Si le but des survivants est d essayer de subsister, certains d entre eux vont également essayer de comprendre la raison de cette invasion.
+[fr]:Six mois après l invasion de la Terre
+[en]:only profiles which are looking for my age (36) and gender (male)
+[de]:Search Members
+[fr]:environnement de bureau

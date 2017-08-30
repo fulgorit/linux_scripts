@@ -1,0 +1,5 @@
+URxvt*depth: 32
+URxvt*background: rgba:0000/0000/0200/c800
+URxvt*scrollBar: false
+URxvt*foreground: #ffffff
+URxvt*font: xft:Bitstream Vera Sans Mono-22
